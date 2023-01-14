@@ -1,3 +1,7 @@
+I MADE SOME CHANGES
+
+HELLO WORLD!!!!
+
 EASY KIMCHI 
 
 Definitely one of our favourite condiments! For those who do not know what kimchi is, it is like a korean style sauerkraut with a wonderful spicy tangy gingery flavour. Goes great with everything, it is packed full of probiotics great for digestion and the immune system. This recipe was developed by Fiona, our wonderful fermenter, through lots of experimenting. Traditionally Kimchi is made using chinese cabbage but we adapted to make it quicker and easier and still taste fab! For a more traditional style kim chi check out the recipe on page x x Its great to make in a big batch as it lasts for a long time and the longer you let it ferment the more healthy gut bacteria start to develop and the flavours just get more developed. This does take time to make but it’s so worth it.
