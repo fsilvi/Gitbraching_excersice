@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+I MADE SOME CHANGES
+
+HELLO WORLD!!!!
+=======
 HHEEELLOOOOO
 
 
@@ -6,6 +11,11 @@ JKGNJKSNFGNJKGN
 
 
 SKJGNKSJNGKJSNF
+>>>>>>> d5e3b1d939f51a751275f049b1d63fb014a48163
+
+
+trying again #3 with the git push
+
 
 EASY KIMCHI 
 
